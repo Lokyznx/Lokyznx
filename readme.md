@@ -46,3 +46,7 @@ Curioso, criativo e sempre em busca de aprender algo novo no universo Frontend e
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4F8FE9&center=true&vCenter=true&width=435&lines=Code.+Learn.+Repeat.;Student+%7C+Frontend+Enthusiast;Python+Explorer;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
+
+<!--
+Quer adicionar projetos, redes sociais ou mais detalhes? Só avisar!
+-->
